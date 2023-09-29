@@ -1,0 +1,11 @@
+{
+  "name": "document_on_mongoose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ansanonymo/document_on_mongoose.git",
+  "author": "ansanonymo",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^7.5.3"
+  }
+}
